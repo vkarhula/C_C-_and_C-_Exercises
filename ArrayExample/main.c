@@ -16,6 +16,9 @@ int main(){
    myArray[0] = 12;
    printf("%i\n", myArray[0]);
 
+   int koko = 5;
+   int * p = &koko;
+
    // mallocin varaaman muistin vapautus
    // pitää dokumentoida, kenen vastuulla on varatun heap-muistilohkon
    // vapauttaminen, alkuperäisen varauksen tekijällä vai sillä,

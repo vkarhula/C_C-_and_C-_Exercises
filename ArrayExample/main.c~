@@ -28,6 +28,6 @@ int main(){
 int * createArray(int size){
 
    // malloc varaa muistia heap:sta
-   int* array =(int*)malloc(sizeof(int) * size);
+   int* array = (int*) malloc(sizeof(int) * size);
    return array;
 }
