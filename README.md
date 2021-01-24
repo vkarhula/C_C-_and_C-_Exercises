@@ -1,2 +1,2 @@
 # C_Exercises
-Collection of C exercises
+Collection of C, C# and C++ exercises
